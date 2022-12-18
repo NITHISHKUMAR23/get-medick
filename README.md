@@ -24,7 +24,8 @@ Azure Microsoft Internship Project
 ![home](https://user-images.githubusercontent.com/114764945/208296359-0ae05773-ccfd-4aa2-aac0-7a478755856a.png)
 ## Department Page Details:
 ![depart](https://user-images.githubusercontent.com/114764945/208296350-f82c7e4f-6241-4efe-bd56-5774ff84fa4c.png)
-![department](https://user-images.githubusercontent.com/114764945/208296353-a3517f43-3c7f-47f3-afae-d692a96de1d9.png
+![Screenshot (14)](https://user-images.githubusercontent.com/114764945/208296524-02582ee8-23dc-45c4-8afd-bb00217f3d7d.png)
+![department](https://user-images.githubusercontent.com/114764945/208296353-a3517f43-3c7f-47f3-afae-d692a96de1d9.png)
 ## Contact Page Details:
 ![contact](https://user-images.githubusercontent.com/114764945/208296348-c2d78c4a-8787-4447-95f4-5a66a2647297.png)
 

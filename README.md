@@ -15,8 +15,10 @@ Azure Microsoft Internship Project
 - web apps
 - Static Web Apps
 ## Home Page Details:
-![1]((https://user-images.githubusercontent.com/114764945/208295521-01ee11ed-37b5-44cd-a15d-e32c13a846c2.png)
-
+![Screenshot (9)](https://user-images.githubusercontent.com/114764945/208296009-4d236332-0764-45e4-bc8d-9159047c4777.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/114764945/208296016-4d7e0c23-b0b8-4459-ae83-f795643894a4.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/114764945/208296033-4b9b0fc1-1d1e-47a9-ad6f-3bc949b054fa.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/114764945/208296054-2a7a713f-f486-48ae-93d7-2cbea6341e9d.png)
 ## About Page Details:
 ![6](https://user-images.githubusercontent.com/119150985/208115787-a42b491d-ebd7-41e5-a290-ca6a66838609.png)
 ![7](https://user-images.githubusercontent.com/119150985/208115866-4b3d51c3-f875-42bd-befd-e69cd1285672.png)

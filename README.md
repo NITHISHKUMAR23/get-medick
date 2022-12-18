@@ -20,12 +20,13 @@ Azure Microsoft Internship Project
 ![Screenshot (11)](https://user-images.githubusercontent.com/114764945/208296033-4b9b0fc1-1d1e-47a9-ad6f-3bc949b054fa.png)
 ![Screenshot (12)](https://user-images.githubusercontent.com/114764945/208296054-2a7a713f-f486-48ae-93d7-2cbea6341e9d.png)
 ## About Page Details:
-
+![Screenshot (13)](https://user-images.githubusercontent.com/114764945/208296325-30621843-aa73-40a9-a4f9-fb6c2f5df57d.png)
+![home](https://user-images.githubusercontent.com/114764945/208296359-0ae05773-ccfd-4aa2-aac0-7a478755856a.png)
 ## Department Page Details:
-![8](https://user-images.githubusercontent.com/119150985/208115950-c0f76198-f880-4495-a4cf-675f47a2e861.png)
+![depart](https://user-images.githubusercontent.com/114764945/208296350-f82c7e4f-6241-4efe-bd56-5774ff84fa4c.png)
+![department](https://user-images.githubusercontent.com/114764945/208296353-a3517f43-3c7f-47f3-afae-d692a96de1d9.png
 ## Contact Page Details:
-![9](https://user-images.githubusercontent.com/119150985/208115977-174e569f-2819-4f7a-8efe-59ae007bb9ed.png)
-
+![contact](https://user-images.githubusercontent.com/114764945/208296348-c2d78c4a-8787-4447-95f4-5a66a2647297.png)
 
 ## Tech Stack 
 

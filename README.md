@@ -12,7 +12,7 @@ Azure Microsoft Internship Project
 - Included the feedback Survey form to increase the scope of improvement.
 
 ## Azure Services Used:-
-- Azure Health Bot
+- web apps
 - Static Web Apps
 ## Home Page Details:
 ![1](https://user-images.githubusercontent.com/119150985/208115632-2e478830-86d4-4cd0-9a1c-108128016c92.png)

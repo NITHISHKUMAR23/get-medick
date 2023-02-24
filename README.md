@@ -1,6 +1,6 @@
 # get-medick
 Azure Microsoft Internship Project
-- Project Link: [https://nithishkumar23.github.io/get-medick/index.html?search=department#]
+- Project Link: [https://nithishkumar23.github.io/get-medick/]
 - Demo Video Link:-https://youtu.be/_U5j5_31ex8
 
 ## Features and Functionalities:-
